@@ -27,9 +27,9 @@ using System.Reflection;
 
 // Assembly information
 [assembly: AssemblyTitle("Microsoft Exchange Managed API")]
-[assembly: AssemblyDescription("Microsoft Exchange Web Services (EWS Managed API")]
-[assembly: AssemblyCompany("Microsoft Corporation")]
-[assembly: AssemblyProduct("Microsoft Exchange Managed API")]
+[assembly: AssemblyDescription("The Exchange Web Services (EWS) Managed API provides a .NET Framework interface to EWS in Exchange Online, Exchange Online as part of Office 365, and versions of Exchange starting with Exchange Server 2007 Service Pack 1 (SP1). \r\n\r\nYou can use this version of the EWS Managed API to evaluate the library for your application needs, to compare it to directly using XML or the auto generated proxy library, and to create production-ready applications.")]
+[assembly: AssemblyCompany("Microsoft Corporate, Instituto Atlantico")]
+[assembly: AssemblyProduct("Microsoft Exchange WebServices")]
 [assembly: AssemblyCopyright("© Microsoft Corporation.  All rights reserved.")]
 
 // Master branch will have version as 0.0.0.0, when a stable branch is created

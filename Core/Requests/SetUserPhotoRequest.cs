@@ -23,13 +23,10 @@
  * DEALINGS IN THE SOFTWARE.
  */
 
-using System.Drawing.Imaging;
-
 namespace Microsoft.Exchange.WebServices.Data
 {
     using System;
     using System.Net;
-    using Microsoft.Exchange.WebServices.Data;
 
     /// <summary>
     /// Represents a request of a get user photo operation
@@ -155,7 +152,7 @@ namespace Microsoft.Exchange.WebServices.Data
             return SetUserPhotoRequest.SetResultOrDefault(this.InternalExecute);
         }
 
-                /// <summary>
+        /// <summary>
         /// Ends executing this async request.
         /// </summary>
         /// <param name="asyncResult">The async result</param>
